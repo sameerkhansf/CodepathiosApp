@@ -5,7 +5,7 @@ Submitted by: **Sameer Khan**
 
 **Codepathios** is an app that introduces me to Codepath Academy 
 
-Time spent: **4** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## Required Features
 
